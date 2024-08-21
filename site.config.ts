@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
-  // github: 'transitive-bullshit',
+  github: 'gsscsd',
   // linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
@@ -55,11 +55,11 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'About',
-      pageId: '1072c24c276843239c07a6608c8e495f'
+      pageId: '1d0b6de53f2844cebd86fafe9e493ca8'
     },
     {
       title: 'Contact',
-      pageId: '60934d438d074ad5aef9855f7b95b84f'
+      pageId: 'e3ecfce8086d4cc4bbf48d36f6095ac0'
     }
   ]
 })
